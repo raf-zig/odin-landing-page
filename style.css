@@ -82,20 +82,22 @@
     width: 950px;
     padding-top: 20px;
 }
+
 .fourth_section {
     background-color: whitesmoke;
     height: 100px;
     display: flex;
     align-items: center;
+    
 }
 .call {
     display: flex;
     background-color: #769cf0;
     width: 900px;
-    margin: 0 auto;
     justify-content: space-around;
     align-items: center;
     border-radius: 5px;
+    margin:  0 480px;
 } 
 .call div {
     color: white;
