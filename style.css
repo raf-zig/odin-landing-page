@@ -93,7 +93,7 @@ a {
   margin: 0 auto;
   font-size: 36px;
   width: 950px;
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 .fourth_section {
@@ -112,6 +112,7 @@ a {
   align-items: center;
   border-radius: 5px;
   margin:  0 480px;
+  padding-top: 10px;
 } 
 
 .call div {
